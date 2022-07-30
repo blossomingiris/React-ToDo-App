@@ -14,8 +14,9 @@
 	text-shadow: 2px 2px 1px #000000;
 	padding: 0 0.7em;
 	cursor: pointer;
+	transition: 1s;
 }
 
 .quote p:hover {
-	opacity: 0.8;
+	opacity: 0.75;
 }
