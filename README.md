@@ -3,3 +3,4 @@
 - Random motivation quote displayed on click it. :star_struck:
 - App has marine design and basic functionality. :ocean:
 - UI is built using ReactJS. :electron:
+- [link to the project](https://dreams-of-the-sea-todo.netlify.app)
