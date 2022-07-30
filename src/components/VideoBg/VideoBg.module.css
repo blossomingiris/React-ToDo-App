@@ -1,0 +1,11 @@
+.videoBg {
+	width: 100vw;
+	height: 100vh;
+}
+
+video {
+	width: 100vw;
+	height: 100vh;
+	object-fit: cover;
+	display: block;
+}

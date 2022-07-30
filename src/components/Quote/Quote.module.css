@@ -1,0 +1,21 @@
+.quote {
+	grid-area: quote;
+	text-align: center;
+	padding: 0 0 1em 0;
+	font-style: italic;
+	letter-spacing: 0.1;
+	font-family: 'Caveat', cursive;
+	font-weight: 100;
+	font-size: 1.5em;
+}
+
+.quote p {
+	margin: 0;
+	text-shadow: 2px 2px 1px #000000;
+	padding: 0 0.7em;
+	cursor: pointer;
+}
+
+.quote p:hover {
+	opacity: 0.8;
+}

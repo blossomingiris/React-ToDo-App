@@ -1,0 +1,11 @@
+.header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	grid-area: header;
+}
+
+.name {
+	text-shadow: 2px 2px 4px #000000;
+	font-weight: 600;
+}
