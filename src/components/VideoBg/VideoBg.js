@@ -1,5 +1,5 @@
 import React from 'react'
-import video from '../../assets/Video/bg.mp4'
+import video from '../../assets/Video/bg.webm'
 import Card from '../Card/Card'
 import style from './VideoBg.module.css';
 
