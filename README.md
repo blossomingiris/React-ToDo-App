@@ -1,6 +1,6 @@
 - This is small MVP project - ToDo application. 🚀
+- First experience working with ReactJS. :electron:
 - ToDo app is an application that allows to manage a list of tasks to do. It performs adding, deleting, editing and toggling state of each task.	:dart:
 - Random motivation quote displayed on click it. :star_struck:
 - App has marine design and basic functionality. :ocean:
-- UI is built using ReactJS. :electron:
 - [link to the project](https://dreams-of-the-sea-todo.netlify.app)
