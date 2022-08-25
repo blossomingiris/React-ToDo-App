@@ -1,6 +1,7 @@
+import { v4 as uuidv4 } from 'uuid';
 import VideoBg from "./components/VideoBg/VideoBg";
 import React, { useState, useEffect } from "react";
-import { v4 as uuidv4 } from 'uuid';
+
 
 
 function App() {
@@ -18,12 +19,6 @@ function App() {
 			return [];
 		}
 	})
-
-	// useEffect to run once the component mounts 
-	//local storage only support storing strings as keys and values
-	// therefore we can't store objects without converting the object into a string first. 
-	//JSON.stringify will convert the object into a JSON string.
-	// add tasks as a dependency because we want to update the local storage anytime the tasks state changes.
 
 	useEffect(() => {
 		localStorage.setItem("tasks", JSON.stringify(tasks))
@@ -70,8 +65,6 @@ function App() {
 		})
 		setTasks(newEditTask)
 	}
-
-	//preloader
 
 
 	return (

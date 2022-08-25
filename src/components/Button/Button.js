@@ -1,13 +1,9 @@
-import React from 'react'
-import style from './Button.module.css';
+import style from './Button.module.css'
 
 function Button() {
+  let btnName = 'add'
 
-	let btnName = 'add'
-
-	return (
-		<button className={style.btn}>{btnName}</button>
-	)
+  return <button className={style.btn}>{btnName}</button>
 }
 
 export default Button
