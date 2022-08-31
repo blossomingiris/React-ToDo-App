@@ -2,8 +2,8 @@
 
 ## ToDo application 🚀
 
-- ToDo app is an application that allows to manage a list of tasks to do. It performs adding, deleting, editing and toggling state of each task.	:dart:
-- first experience working with ReactJS. :electron:
-- random motivation quote displayed on click it. :star_struck:
-- app has marine design and basic functionality. :ocean:
+- ToDo app is an application that allows to manage a list of tasks to do. It performs adding, deleting, editing and toggling state of each task	:dart:
+- first experience working with ReactJS :electron:
+- random motivation quote displayed on click it :star_struck:
+- app has marine design and basic functionality :ocean:
 - [link to demo](https://dreams-of-the-sea-todo.netlify.app)
