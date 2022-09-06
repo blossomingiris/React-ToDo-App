@@ -6,4 +6,4 @@
 :heavy_check_mark: first experience working with ReactJS </br>
 :heavy_check_mark: random motivation quote displayed on click it </br>
 :heavy_check_mark: app has marine design and basic functionality </br>
-[link to demo](https://dreams-of-the-sea-todo.netlify.app) </br>
+:heavy_check_mark: [link to demo](https://dreams-of-the-sea-todo.netlify.app) </br>
