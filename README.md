@@ -2,8 +2,11 @@
 
 ## ToDo application (ReactJS) 🚀
 
-:heavy_check_mark: ToDo app is an application that allows to manage a list of tasks to do. It performs adding, deleting, editing and toggling state of each task	</br>
+:heavy_check_mark: ToDo app is an application that allows to manage a list of tasks to do. It performs adding, deleting, editing and toggling state of each task</br>
 :heavy_check_mark: first experience working with ReactJS </br>
 :heavy_check_mark: random motivation quote displayed on click it </br>
 :heavy_check_mark: app has marine design and basic functionality </br>
 :heavy_check_mark: [link to demo](https://dreams-of-the-sea-todo.netlify.app) </br>
+
+## Issues
+Background video is uploading slowly for first time, have a passion =)
